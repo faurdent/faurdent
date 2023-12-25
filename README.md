@@ -1,8 +1,8 @@
 ### Hi everyone 👋
 
-- I'm currently studying at the Technical University in Košice.
-- I'm learning C programming language, math, electrotechnics and much more.
-- I'll be happy to collaborate on some interesting projects.
+- 📖 I'm currently studying at the Technical University in Košice.
+- 💻 I'm learning C programming language, math, electrotechnics and much more.
+- 🤝 I'll be happy to collaborate on some interesting projects.
 - 📫 You can reach me by links on socials in my profile.
 
 <!--
